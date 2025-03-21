@@ -24,7 +24,7 @@ export default function Home() {
 
   const startDate = new Date("2025-02-22T23:32:00") // วันที่เริ่มคบกัน
 
-  const targetDate = new Date("2025-02-22T23:32:00") // วันที่และเวลาที่ต้องการให้ Countdown ถึง
+  const targetDate = new Date("2025-03-22T23:32:00") // วันที่และเวลาที่ต้องการให้ Countdown ถึง
 
   const [timeTogether, setTimeTogether] = useState({
     years: 0,
