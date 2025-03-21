@@ -369,7 +369,7 @@ export default function Home() {
 
       {/* Photo gallery - Memories Together with swipeable carousel */}
       <div className="w-[90%] max-w-md mb-8 animate-[fadeIn_2.5s_ease-in]">
-        <h3 className="text-xl font-bold text-pink-500 mb-4 text-center">Memories Together in February</h3>
+        <h3 className="text-xl font-bold text-pink-500 mb-4 text-center">Memories from Our First Month</h3>
         <MemoriesGallery images={memoryImages} />
       </div>
 
