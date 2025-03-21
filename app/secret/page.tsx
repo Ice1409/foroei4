@@ -254,7 +254,7 @@ export default function Home() {
         <div className={`absolute -top-10 -left-10 rotate-[-10deg] z-10 ${floatingAnimationSlow}`}>
           <div className="w-16 h-20 bg-white rounded-md shadow-md overflow-hidden">
             <Image
-              src="/Oei (17).jpg?height=80&width=64"
+              src="/Oei (1).jpg?height=80&width=64"
               alt="Decoration"
               width={64}
               height={80}
@@ -278,7 +278,7 @@ export default function Home() {
         <div className={`absolute -bottom-5 -right-5 rotate-[5deg] z-10 ${floatingAnimationFast}`}>
           <div className="w-14 h-18 bg-white rounded-md shadow-md overflow-hidden">
           <Image
-              src="/Oei (18).jpg?height=80&width=64"
+              src="/Oei (2).jpg?height=80&width=64"
               alt="Decoration"
               width={64}
               height={80}
